@@ -1,1 +1,1 @@
-confused smiley
+shell directions
