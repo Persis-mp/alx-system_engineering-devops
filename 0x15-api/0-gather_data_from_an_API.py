@@ -1,5 +1,9 @@
 #!/usr/bin/python3
+<<<<<<< HEAD
 """Python script which returns infoabiut an employees"""
+=======
+"""Python script that returns information about employees"""
+>>>>>>> 701a13eafca0870184a1aa693cd95dc42a873ae5
 
 import requests
 import sys
