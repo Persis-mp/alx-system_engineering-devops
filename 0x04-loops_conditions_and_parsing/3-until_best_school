@@ -1,9 +1,9 @@
-i#!/usr/bin/env bash
+#!/usr/bin/env bash
 # Displays "Best School" 10 times using an until loop.
 var="Best School"
 i="1"
-until [ $1 -eq 11 ];
+until [ $i -eq 11 ];
 
 	do echo "$var"
-	(( 1++ ))
+	((i++))
 done
